@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "478304089931",
+    "project_id": "push-notifier-8-27",
+    "storage_bucket": "push-notifier-8-27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478304089931:android:e2a49c54944cb2ed961ace",
+        "android_client_info": {
+          "package_name": "jp.co.bpmjapan.sample.push_notifier_8_27"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478304089931-q6vncip30tp6eg0vhjf3700b9rnql9p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwjxrxndKtX735ZdVMnUK4_jTFqDvvozE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478304089931-q6vncip30tp6eg0vhjf3700b9rnql9p5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478304089931-8mkh0meqt11fv26p17sru9hqk5t7o6l8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.co.bpmjapan.sample.pushNotifier827"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
